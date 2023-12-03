@@ -1,22 +1,20 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
+## Welcome to My World: Meet Paulino! 😊
 
-# Welcome!
-## I'm Lucas! Let me present a little about myself :D
+### Hey there, I'm Paulino! Allow me to give you a glimpse into who I am and what I'm all about. 🌟
 
-Full-Stack focused in Ruby on Rails | Software engineer :robot:
+Mobile | Flutter Dev | Full Stack | PHP Laravel | IT Manager | Cybersecurity  :robot:
 
-Lover of Technology and coding :heart:
+Passionate about Technology and Coding. :heart:
 
 
 
 ## About me 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/Lucasdfg07)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/lucas-siqueira-167362148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:Lucassiqueirafernandes07@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/paulinofonsecas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/feed/)
+[![Gmail Badge](mailto:paulinofonsecass@gmail.com)
 
 
-- Thanks for visiting. 
-- Enjoy it!! o/
+Thank you for dropping by!
+Have a great time!! o/
